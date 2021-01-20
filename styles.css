@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+:root{
+  color: beige;
+}
+
+body{
+  font-family: 'Satisfy', cursive;
+  background-image: url("images/targyren.jpg");
+}
+
+textarea{
+  width: 80%;
+  height:10vh ;
+  display: block;
+  margin:1rem ;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 7rem;
+}
+
+p{
+  padding-left: 5rem;
+  padding-right: 5rem;
+
+}
+
+#btn{
+  background-color:black;
+  margin: 1rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem 2rem 1rem 2rem;
+  color: darkred;
+  border : 2rem;
+  border-radius: 0.5rem;
+  font-size: 120%;
+  position: absolute;
+  left: 600px;
+
+
+}
+
+#output{
+  border: 1px solid black;
+  width: 80%;
+  height:10vh ;
+  display: block;
+  margin-top: 9rem;
+  margin-left: 7rem;
+  padding: 1rem;
+  background-color: white;
+  color:black;
+
+}
+
+h1{
+  font-weight: bold;
+  font-size: 300%;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 150%;
+}
